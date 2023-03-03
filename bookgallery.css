@@ -1,0 +1,33 @@
+div{
+    width: 18%;
+    height: 600px;
+    padding: 6px;
+    border: black 4px solid;
+    float: left;
+background-color: lightcoral;
+
+}
+body{
+    background-color:black;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+.c1{
+
+}
+#qq{
+    color: aliceblue;
+    text-align: center;
+}
+.c1{
+    text-align: center;
+
+}
+.d{
+    text-align: left;
+}
+a{
+    color: azure;
+}
